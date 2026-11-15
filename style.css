@@ -17,3 +17,5 @@ th { white-space: nowrap; color: var(--muted); font-weight: 600; }
 a { color: inherit; text-decoration-color: var(--accent); text-decoration-thickness: 3px; text-underline-offset: 3px; }
 .btn { display:inline-block; background: var(--accent); color:#191919; padding: 10px 16px; border-radius: 10px; font-weight: 700; text-decoration: none; }
 footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
+.lang { margin-left: auto; font-size: 15px; }
+.lang a { font-weight: 600; }
